@@ -6,6 +6,6 @@ using this tool you can sorting data , from urls or text file
 <br>
 is sorted ,hashes ,emails ,domains ,ips ,MAC , urls ,urlsand path with extention png ,jpg ,mp3 ,mp4 ... etc 
 <br>
-how to use it ,, just fllow  the video 
+how to use it ,, just follw  the video 
 <br>
 thenk you for using my tool 
